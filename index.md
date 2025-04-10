@@ -8,3 +8,8 @@
 Added the six different header types to the "index.md" file.
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+let x = 50;
+console.log(x);
+```
