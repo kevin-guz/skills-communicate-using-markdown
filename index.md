@@ -13,3 +13,6 @@ Added the six different header types to the "index.md" file.
 let x = 50;
 console.log(x);
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
