@@ -6,3 +6,5 @@
 ###### Header (H6) Test by Kevs
 
 Added the six different header types to the "index.md" file.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
